@@ -122,7 +122,13 @@ In order to run this project you need:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- CONTRIBUTING -->
+## 🔭 Future Features <a name="future-features"></a>
+
+- Personalized Greetings
+- Multi-Lingual Support
+- Voice Greetings
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
 
